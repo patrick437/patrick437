@@ -1,4 +1,4 @@
-## Hello there 👋
+## About Me 👋
 
 **Name:** Patrick Noonan.  
 **University:** University of Galway.  

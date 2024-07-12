@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning about Embedded Vision and C programming.
 - 🤔 I’m looking for help with working APIs on my strava API project.
 - 📫 How to reach me: Gmail: patrickgnoonan@gmail.com  
- >>>>LinkedIn: www.linkedin.com/in/patrick-noonan-57242228a
+ >>>> LinkedIn: www.linkedin.com/in/patrick-noonan-57242228a
 - ⚡ Fun fact: I am a triplet who enjoys running.
 

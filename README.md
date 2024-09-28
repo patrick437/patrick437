@@ -2,7 +2,7 @@
 
 **Name:** Patrick Noonan.  
 **University:** University of Galway.  
-**Bachelors Degree:** Computer and Electronic Engineering.
+**Bachelors Degree:** Computer and Electronic Engineering.  
 **Areas of Interest:** Robotics, Radar, Lidar, Embedded Vision, Rest Apis(a little)
 
 - 🔭 Working on Stereo Vision project to calculate depth using RPI5 and two cameras on the PCIE ports. 

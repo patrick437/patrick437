@@ -11,6 +11,8 @@
 - 🔍 Developing embedded machine vision applications – currently optimizing YOLO models for Jetson Nano deployment.
 - 🌐 Building digital twins using Unity and Gazebo for simulation-based development and testing.
 
+  ##Technologies I have worked with
+
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -27,6 +29,8 @@
   <!-- scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
 </div>
+
+## My stats
 
 [![Patricks GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick437)](https://github.com/patrick437/github-readme-stats)
 

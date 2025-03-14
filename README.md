@@ -11,7 +11,7 @@
 - 🔍 Developing embedded machine vision applications – currently optimizing YOLO models for Jetson Nano deployment.
 - 🌐 Building digital twins using Unity and Gazebo for simulation-based development and testing.
 
-  ## Technologies I have worked with
+## Technologies I have worked with
 
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!-- Python -->

@@ -22,8 +22,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/>
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
- <!-- NVIDIA -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="nvidia" width="40" height="40"/>
+  <!-- NVIDIA -->
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="nvidia" width="40" height="40"/>
   <!-- scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
 </div>

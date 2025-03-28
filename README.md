@@ -37,4 +37,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick437&layout=compact)
 
 
+![Leetcode Stats](https://leetcard.patrick437/patrick437)
+
+
 
